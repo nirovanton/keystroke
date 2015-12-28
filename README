@@ -1,0 +1,5 @@
+Number sequences are passed to the program via sys.argv
+
+example:
+user $ python keystroke.py number
+
